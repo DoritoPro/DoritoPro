@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DoritoPro
+- 👀 I’m interested in Glua
+- 🌱 I’m currently learning Lua specifically for Gmod
+- 💞️ I’m looking to collaborate on Gmod related projects using LUA
